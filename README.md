@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buhuti Manakal</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1997buhuti&label=Profile%20views&color=0e75b6&style=flat" alt="1997buhuti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1997buhuti" alt="1997buhuti" /></a> </p>
@@ -20,6 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/171bsqdlgiXPqzc8OuQvds4CHK1cAtvH9/view](https://drive.google.com/file/d/171bsqdlgiXPqzc8OuQvds4CHK1cAtvH9/view)
 
 - ⚡ Fun fact **I'm a passionate coder and a learner willing to do my best genuinely.❤❤**
+[![@buhuti's Holopin board](https://holopin.io/api/user/board?user=buhuti)](https://holopin.io/@buhuti)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
