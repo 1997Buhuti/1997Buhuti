@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [ReactBotFrontend project](https://github.com/1997Buhuti/ReactBotFrontend)
 
-- 👨‍💻 All of my projects are available at [http://www.manakal.live/](http://www.manakal.live/)
+- 👨‍💻 All of my projects are available at (https://bmanakal-portfolio.dynv6.net/)
 
 - 💬 Ask me about **Angular,React,nodeJS,Javascript,TypesScript,AWS**
 
