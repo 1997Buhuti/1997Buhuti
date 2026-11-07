@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1997buhuti" alt="1997buhuti" /></a> </p>
 
-- 🔭 I’m currently working on [MEAN E-Commerce](https://github.com/1997Buhuti/mean-ecommerce-ui)
+- 🔭 I’m currently working on [Job Scout](https://github.com/1997Buhuti/job-scout), a job-search assistant that matches my CV and preferences to listings on a schedule
+- 🔭 I’m also working on [MEAN E-Commerce](https://github.com/1997Buhuti/mean-ecommerce-ui)
 
 - 🌱 I’m currently learning **Angular,React and nodeJS**
 
@@ -20,6 +21,16 @@
 
 - ⚡ Fun fact **I'm a passionate coder and a learner willing to do my best genuinely.❤❤**
 [![@buhuti's Holopin board](https://holopin.io/api/user/board?user=buhuti)](https://holopin.io/@buhuti)
+
+<h3 align="left">Latest project: Job Scout</h3>
+
+Job Scout lets users upload a CV, set job preferences, and get a scheduled digest of matching job listings.
+
+- **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS
+- **Backend:** Serverless Framework v4, TypeScript, AWS Lambda, API Gateway HTTP API, DynamoDB, S3, and Cognito for auth
+- **Scheduler:** an hourly EventBridge tick runs the pipeline for every user whose schedule is due
+
+Repo: [1997Buhuti/job-scout](https://github.com/1997Buhuti/job-scout)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
